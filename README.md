@@ -107,7 +107,7 @@ streamlit run app.py
 
 ## 🌐 Live Demo
 
-🚀 Try out the app here: [SMS Spam Detection App](https://your-streamlit-link.streamlit.app)  
+🚀 Try out the app here: [SMS Spam Detection App](https://sms-spam-detection-tldmyekysdwgdruuxj6rfe.streamlit.app/)  
 
 
 ---
